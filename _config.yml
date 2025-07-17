@@ -5,6 +5,9 @@ baseurl: "/tiation-infrastructure-charms"
 
 # Theme and plugins
 theme: minima
+
+# Dark neon theme configuration
+color_scheme: dark
 plugins:
   - jekyll-feed
   - jekyll-sitemap
