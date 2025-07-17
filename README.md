@@ -141,3 +141,16 @@ And open the `mlflow` `ClusterIP` in the browser with `:5000` on the end.
 * [ ] Reference various juju/kubeflow bugs that can cause things to fail
 * [x] Record demo video
 * [ ] Move to Canonical repo
+
+## 📞 Contact & Support
+
+For questions, enterprise support, or custom Kubeflow/MLflow deployments:
+
+- **Email**: [tiatheone@protonmail.com](mailto:tiatheone@protonmail.com)
+- **Issues**: [GitHub Issues](https://github.com/tiation/tiation-infrastructure-charms/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/tiation/tiation-infrastructure-charms/discussions)
+- **Enterprise Support**: Available for custom infrastructure deployments
+
+---
+
+*Part of the [Tiation](https://github.com/tiation) ecosystem - Enterprise-grade infrastructure solutions*

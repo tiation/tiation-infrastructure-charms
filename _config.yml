@@ -1,0 +1,44 @@
+title: "Tiation Infrastructure Charms"
+description: "Kubeflow + MLflow on Juju with Microk8s - Enterprise Infrastructure Solutions"
+url: "https://tiation.github.io"
+baseurl: "/tiation-infrastructure-charms"
+
+# Theme and plugins
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Site author
+author:
+  name: Tiation Team
+  email: tiatheone@protonmail.com
+
+# Navigation
+header_pages:
+  - README.md
+
+# GitHub repository
+repository: tiation/tiation-infrastructure-charms
+github_username: tiation
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# Exclude from processing
+exclude:
+  - .git
+  - .gitignore
+  - .testfaster.yml
+  - bundle.yaml
+  - integration_test
+  - integration_test_microk8s
+  - testctl-rsync.sh
+  - testctl-ssh.sh
+  - mlflow/
+  - worker/
