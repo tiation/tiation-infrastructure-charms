@@ -4,7 +4,7 @@ url: "https://tiation.github.io"
 baseurl: "/tiation-infrastructure-charms"
 
 # Theme and plugins
-theme: minima
+remote_theme: tiation/tiation-github-pages-theme
 
 # Dark neon theme configuration
 color_scheme: dark
